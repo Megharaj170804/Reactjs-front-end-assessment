@@ -96,7 +96,14 @@ yarn dev
 Open the browser at `http://localhost:5173` (or the port Vite indicates) to view the application.
 
 ***
+****Priview****
 
+
+
+https://github.com/user-attachments/assets/7430fa16-d173-41a5-9351-44b1b0a993ee
+
+
+***
 ## Project Structure
 
 - Each project is structured with modular React components demonstrating best practices for reusability and state management.
